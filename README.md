@@ -52,6 +52,7 @@ O script abaixo foi feito para ensinar como abrir e manipular microdados do CENS
 o estado do Acre e Rondonia mas o mesmo script pode ser aplicado para mais estados, basta adicionar os arquivos na estrutura de pastas correta. 
 É importante ressaltar que esse script tinha como objetivo ensinar python para uma turma iniciante, se o objetivo for utilizar o Python 
 para trabalhar com os dados de todo o CENSO pode ser que utilizar pandas não seja uma boa escolha, neste caso recomendamos ou filtrar
-os dados de interesse antes de concatenar ou utilizar outras estratégias como Dask ou Pyspark.
+os dados de interesse antes de concatenar ou utilizar outras estratégias como Dask ou Pyspark. Também ressaltamos que as análises feitas não necessáriamente são as mais adequadas para estes dados ao se considerar a base teórica, o que queriamos mostrar era principalmente
+a  ferramenta por isso não focamos em interpretações dos dados ou em escolher as variáveis mais significativas.
 
 [Link para o script de microdados](https://github.com/MarinaAmorim/Curso-de-Python-aplicado-ao-Censo/blob/master/microdata_censo.ipynb)
