@@ -16,7 +16,7 @@ do Censo Demográfico de 2010 e algumas ferramentas úteis do python para manipu
 Marina Amorim - [Link para Github](https://github.com/MarinaAmorim)  
 Marina Tomás - [Link para Github](https://github.com/marinattomas)
 
-![Foto curso](https://github.com/marinattomas/Curso-de-Python-aplicado-ao-Censo/blob/master/WhatsApp%20Image%202019-11-29%20at%2017.16.27.jpeg)
+![Foto curso](https://github.com/marinattomas/Curso-de-Python-aplicado-ao-Censo/blob/master/Foto-Workshop.jpeg)
 Foto ao final do workshop
 
 ## Materiais do curso
@@ -55,4 +55,4 @@ para trabalhar com os dados de todo o CENSO pode ser que utilizar pandas não se
 os dados de interesse antes de concatenar ou utilizar outras estratégias como Dask ou Pyspark. Também ressaltamos que as análises feitas não necessáriamente são as mais adequadas para estes dados ao se considerar a base teórica, o que queriamos mostrar era principalmente
 a  ferramenta por isso não focamos em interpretações dos dados ou em escolher as variáveis mais significativas.
 
-[Link para o script de microdados](https://github.com/MarinaAmorim/Curso-de-Python-aplicado-ao-Censo/blob/master/microdata_censo.ipynb)
+[Link para o script de microdados](https://github.com/marinattomas/Curso-de-Python-aplicado-ao-Censo/blob/master/Notebook_Python_Curso.ipynb)
