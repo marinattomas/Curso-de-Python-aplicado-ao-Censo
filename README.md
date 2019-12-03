@@ -16,6 +16,9 @@ do Censo Demográfico de 2010 e algumas ferramentas úteis do python para manipu
 Marina Amorim - [Link para Github](https://github.com/MarinaAmorim)  
 Marina Tomás - [Link para Github](https://github.com/marinattomas)
 
+![Foto curso](https://github.com/marinattomas/Curso-de-Python-aplicado-ao-Censo/blob/master/WhatsApp%20Image%202019-11-29%20at%2017.16.27.jpeg)
+Foto ao final do workshop
+
 ## Materiais do curso
 
 ## 1) Como instalar o Python
