@@ -14,7 +14,7 @@ do Censo Demográfico de 2010 e algumas ferramentas úteis do python para manipu
 ### Professoras :
 
 Marina Amorim - Mestranda em estatistica - UFMG - [Link para Github](https://github.com/MarinaAmorim)  
-Marina Tomás - Mestranda em sociologia -UfMG // Observatório INCITE [Link para Github](https://github.com/marinattomas)
+Marina Tomás - Mestranda em sociologia -UFMG // Observatório INCITE [Link para Github](https://github.com/marinattomas)
 
 ![Foto curso](https://github.com/marinattomas/Curso-de-Python-aplicado-ao-Censo/blob/master/Foto-Workshop.jpeg)
 Foto ao final do workshop
