@@ -61,7 +61,7 @@ a  ferramenta por isso não focamos em interpretações dos dados ou em escolher
 # Quer aprender mais sobre Python?- Alguns liks uteis
 *em produção*
 
-No final do manual do curso colocamos alguns links, além disso colocaremos aqui nesta lista materiais interessantes paraauxiliar no estudo do Python e também para quem se interesse na sua aplicação em ciência de dados. A lista ainda está em produção e será atualizada em breve:
+No final do manual do curso colocamos alguns links, além disso colocaremos aqui nesta lista materiais interessantes para auxiliar no estudo do Python e também para quem se interesse na sua aplicação em ciência de dados. A lista ainda está em produção e será atualizada em breve:
 
 - [Curso de Python Básico Solyd](https://solyd.com.br/treinamentos/python-basico) - O curso da Solyd é gratuito e muito bom, ensina os básicos da linguagem e fornece certificado.
 
