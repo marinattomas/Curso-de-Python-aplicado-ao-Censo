@@ -63,7 +63,7 @@ a  ferramenta por isso não focamos em interpretações dos dados ou em escolher
 
 No final do manual do curso colocamos alguns links, além disso colocaremos aqui nesta lista materiais interessantes para auxiliar no estudo do Python e também para quem se interesse na sua aplicação em ciência de dados. A lista ainda está em produção e será atualizada em breve:
 
--[Workshop prático de Dados](https://github.com/juditecypreste/Aprenda-Python-analisando-os-tuites-do-nosso-presidente) - Sugestão do Colaboradados 
+- [Workshop prático de Dados](https://github.com/juditecypreste/Aprenda-Python-analisando-os-tuites-do-nosso-presidente) - Sugestão do Colaboradados 
 
 - [Curso de Python Básico Solyd](https://solyd.com.br/treinamentos/python-basico) - O curso da Solyd é gratuito e muito bom, ensina os básicos da linguagem e fornece certificado.
 
@@ -75,4 +75,4 @@ No final do manual do curso colocamos alguns links, além disso colocaremos aqui
 
 - [Onde encontrar conjunto de dados](https://medium.com/rladiesbh/19-lugares-para-encontrar-conjuntos-de-dados-gratuitos-para-projetos-de-ci%C3%AAncia-de-dados-4390943d860d)- Texto do Rladies BH que apresenta onde achar conjuntos de dados para explorar.
 
-- [Python x R](https://www.youtube.com/watch?v=W3J7EiSXAO0) - Video do canal Peixe Babel sobre Python vs R
+- [Python vs R](https://www.youtube.com/watch?v=W3J7EiSXAO0) - Video do canal Peixe Babel sobre Python vs R
