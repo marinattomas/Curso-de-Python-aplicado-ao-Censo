@@ -74,3 +74,5 @@ No final do manual do curso colocamos alguns links, além disso colocaremos aqui
 - [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza) - Um guia do podcast Pizzza de Dados com várias informações sobre datascience 
 
 - [Onde encontrar conjunto de dados](https://medium.com/rladiesbh/19-lugares-para-encontrar-conjuntos-de-dados-gratuitos-para-projetos-de-ci%C3%AAncia-de-dados-4390943d860d)- Texto do Rladies BH que apresenta onde achar conjuntos de dados para explorar.
+
+- [Python x R](https://www.youtube.com/watch?v=W3J7EiSXAO0) - Video do canal Peixe Babel sobre Python vs R
