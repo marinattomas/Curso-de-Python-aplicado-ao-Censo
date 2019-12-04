@@ -59,7 +59,7 @@ a  ferramenta por isso não focamos em interpretações dos dados ou em escolher
 [Link para o script de microdados](https://github.com/marinattomas/Curso-de-Python-aplicado-ao-Censo/blob/master/Notebook_Python_Curso.ipynb)
 
 # Quer aprender mais sobre Python?- Alguns liks uteis
-*Seção em produção*
+*em produção*
 
 No final do manual do curso colocamos alguns links, além disso colocaremos aqui nesta lista materiais interessantes paraauxiliar no estudo do Python e também para quem se interesse na sua aplicação em ciência de dados. A lista ainda está em produção e será atualizada em breve:
 
