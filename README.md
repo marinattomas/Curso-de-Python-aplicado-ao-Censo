@@ -34,7 +34,7 @@ até textos explicatórios. Esta apresentação apresneta explicações sobre o 
 A parte da manhã focou em introduzir alguns conceitos básicos de Python que facilitam o entendimento do script para 
 microdados do censo. O material abaixo é um manual inicial de python e possui alguns links para orientar a utilização do python após o workshop. 
 
-[Link para o manual de python](https://github.com/MarinaAmorim/Curso-de-Python-aplicado-ao-Censo/blob/master/Python%20-%20Instala%C3%A7%C3%A3o%20.pdfs)  
+[Link para o manual de python](https://github.com/MarinaAmorim/Curso-de-Python-aplicado-ao-Censo/blob/master/Python%20-%20Instala%C3%A7%C3%A3o%20.pdf)  
 [Link para a atividade 1 - Iteração no Python](https://github.com/marinattomas/Curso-de-Python-aplicado-ao-Censo/blob/master/Itera%C3%A7%C3%A3o%20no%20Python.ipynb)  
 Atividade 2- Iris - *Em breve*
 
