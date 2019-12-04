@@ -13,19 +13,19 @@ do Censo Demográfico de 2010 e algumas ferramentas úteis do python para manipu
 
 ### Professoras :
 
-Marina Amorim - [Link para Github](https://github.com/MarinaAmorim)  
-Marina Tomás - [Link para Github](https://github.com/marinattomas)
+Marina Amorim - Mestranda em estatistica - UFMG - [Link para Github](https://github.com/MarinaAmorim)  
+Marina Tomás - Mestranda em sociologia -UfMG // Observatório INCITE [Link para Github](https://github.com/marinattomas)
 
 ![Foto curso](https://github.com/marinattomas/Curso-de-Python-aplicado-ao-Censo/blob/master/Foto-Workshop.jpeg)
 Foto ao final do workshop
 
 ## Materiais do curso
 
-## 1) Como instalar o Python
+## 1) Como instalar o Python e usar Jupyter
 
 O curso propoe a utilização do python através do Jupyter notebook. O Jupyter Notebook é uma aplicação de código aberto que
 permite criar e compartilhar documentos com código dinâmico, visualizações de gráficos, limpeza de dados e 
-até textos explicatórios. Esta apresentação apresneta explicações sobre o Python, Anaconda e Jupyter e as devidas instalações.
+até textos explicatórios. Esta apresentação apresenta explicações sobre como instalar o Python, Anaconda e também uma introdução sobre o uso do jupyter e sua instalação.
 
 [Clique aqui para ver o manual de instalação](https://github.com/MarinaAmorim/Curso-de-Python-aplicado-ao-Censo/blob/master/Python%20-%20Instala%C3%A7%C3%A3o%20.pdfs)
 
@@ -57,3 +57,18 @@ os dados de interesse antes de concatenar ou utilizar outras estratégias como D
 a  ferramenta por isso não focamos em interpretações dos dados ou em escolher as variáveis mais significativas.
 
 [Link para o script de microdados](https://github.com/marinattomas/Curso-de-Python-aplicado-ao-Censo/blob/master/Notebook_Python_Curso.ipynb)
+
+# Quer aprender mais sobre Python?- Alguns liks uteis
+*Seção em produção*
+
+No final do manual do curso colocamos alguns links, além disso colocaremos aqui nesta lista materiais interessantes paraauxiliar no estudo do Python e também para quem se interesse na sua aplicação em ciência de dados. A lista ainda está em produção e será atualizada em breve:
+
+- [Curso de Python Básico Solyd](https://solyd.com.br/treinamentos/python-basico) - O curso da Solyd é gratuito e muito bom, ensina os básicos da linguagem e fornece certificado.
+
+- [Curso data science academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)- O data science academy fornece um curso de python básico para data science usando jupyter notebook.
+
+- [Como iniciar em data science](http://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html) - Post  do colaboradados bem completo, tem informações sobre Python mas também sobre outros aspectos relacionados a data science. 
+
+- [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza) - Um guia do podcast Pizzza de Dados com várias informações sobre datascience 
+
+- [Onde encontrar conjunto de dados](https://medium.com/rladiesbh/19-lugares-para-encontrar-conjuntos-de-dados-gratuitos-para-projetos-de-ci%C3%AAncia-de-dados-4390943d860d)- Texto do Rladie BH que apresenta onde achar conjuntos de dados para explorar.
