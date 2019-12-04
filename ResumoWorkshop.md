@@ -63,11 +63,13 @@ a  ferramenta por isso não focamos em interpretações dos dados ou em escolher
 
 No final do manual do curso colocamos alguns links, além disso colocaremos aqui nesta lista materiais interessantes para auxiliar no estudo do Python e também para quem se interesse na sua aplicação em ciência de dados. A lista ainda está em produção e será atualizada em breve:
 
+-[Workshop prático de Dados](https://github.com/juditecypreste/Aprenda-Python-analisando-os-tuites-do-nosso-presidente) - Sugestão do Colaboradados 
+
 - [Curso de Python Básico Solyd](https://solyd.com.br/treinamentos/python-basico) - O curso da Solyd é gratuito e muito bom, ensina os básicos da linguagem e fornece certificado.
 
 - [Curso data science academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)- O data science academy fornece um curso de python básico para data science usando jupyter notebook.
 
-- [Como iniciar em data science](http://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html) - Post  do colaboradados bem completo, tem informações sobre Python mas também sobre outros aspectos relacionados a data science. 
+- [Como iniciar em data science](http://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html) - Post  do Colaboradados bem completo, tem informações sobre Python mas também sobre outros aspectos relacionados a data science. 
 
 - [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza) - Um guia do podcast Pizzza de Dados com várias informações sobre datascience 
 
