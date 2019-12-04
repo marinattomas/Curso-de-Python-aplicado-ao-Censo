@@ -1,8 +1,7 @@
 # Workshop de Python aplicado ao Censo 
 
 Este material corresponde ao workshop introdutório de Python realizado no dia 29/11/2019 na FACE- UFMG para 
-alunos do curso de estatistica e demográfia. O curso é uma iniciativa do CEDEPLAR/UFMG e faz parte da série de
-cursos Desvendando o Método.
+alunos do curso de estatistica e demográfia. O curso foi um convite do professor Gilvan Guedes que acompanhou o Workshop virtualmente e é uma iniciativa do CEDEPLAR/UFMG como parte da série de cursos Desvendando o Método . 
 
 Este workshop apresentou noções básicas do software Python. O Python é uma linguagem de programação,
 criada por Guido van Rossum em 1991 para produzir códigos de maneira simples e que executem de forma rápida.
@@ -15,6 +14,7 @@ do Censo Demográfico de 2010 e algumas ferramentas úteis do python para manipu
 
 Marina Amorim - Mestranda em estatistica - UFMG - [Link para Github](https://github.com/MarinaAmorim)  
 Marina Tomás - Mestranda em sociologia -UFMG // Observatório INCITE [Link para Github] - (https://github.com/marinattomas)
+
 
 ![Foto curso](https://github.com/marinattomas/Curso-de-Python-aplicado-ao-Censo/blob/master/Foto-Workshop.jpeg)
 Foto ao final do workshop
